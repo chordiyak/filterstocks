@@ -48,3 +48,15 @@ Add a proper 5-year EPS growth calculation
 Export results to Excel/CSV
 
 Make it work as a small web app for easier use
+
+
+### 📊 Example Visualizations
+
+**Dividend Yield by Stock**  
+![Dividend Yield]
+
+**P/E Ratios by Stock**  
+![PE Ratios]
+
+**EPS Growth Proxy**  
+![EPS Growth]
